@@ -1,0 +1,19 @@
+FROM eclipse-temurin:17-jdk as dev
+
+WORKDIR /app
+
+# Copia wrapper e config
+COPY nsub/mvnw .
+COPY nsub/.mvn .mvn
+COPY nsub/pom.xml .
+
+# Baixa dependências (cache)
+RUN ./mvnw dependency:go-offline -B
+
+# Copia código (vai ser sobrescrito pelo volume em dev)
+COPY nsub/src ./src
+
+EXPOSE 8080
+EXPOSE 5005
+
+CMD ["./mvnw", "spring-boot:run"]
