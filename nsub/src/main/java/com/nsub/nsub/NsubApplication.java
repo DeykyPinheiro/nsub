@@ -11,13 +11,13 @@ public class NsubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NsubApplication.class, args);
-        System.out.println("work work work");
+        System.out.println("work?");
 
     }
 
 
     @GetMapping("/")
     public String hello() {
-        return "it workkksss??!";
+        return "subui atualizcao";
     }
 }
