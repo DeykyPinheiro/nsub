@@ -1,4 +1,8 @@
 
+
+Bem-vindo à documentação do **NSUB**, um projeto Java Spring Boot com ambiente Docker e suporte a desenvolvimento com *live reload*.
+
+
 # how to run scripts:
 
 ## rename_images.sh
@@ -11,6 +15,8 @@ chmod +x documentation/scripts/rename_images.sh
 
 [docker compose live reload](./documentation/setup/docker_compose_live_reload.md)
 
-[configure ssh multiple users git](./documentation/setup/configure_ssh_multiple_users.md)
+[run and debug with container on intelij](./documentation/setup/run_and_debug_with_container_on_intelij.md)
 
-[run and debug with container on intelij](./documentation/setup/run_and_debug_with_container_on_intelij)
+# git & github
+
+[configure ssh multiple users git](./documentation/git&github//configure_ssh_multiple_users.md)

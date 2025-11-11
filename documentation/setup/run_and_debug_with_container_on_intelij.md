@@ -1,4 +1,4 @@
-#  run and debug with container on intelij - [reference commit](https://github.com/DeykyPinheiro/nsub/commit/ca3c9310d3bc086081446712e70f9c36053b4fb8)
+#  run and debug with container on intelij - [reference commit](https://github.com/DeykyPinheiro/nsub/commit/6fead8aa259b2f4f66b1dda93fdc09f907a81f3c)
 
 select edit configurations
 
