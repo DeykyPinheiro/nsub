@@ -1,7 +1,16 @@
 
+# how to run scripts:
 
-setup
+## rename_images.sh
+```
+chmod +x documentation/scripts/rename_images.sh
+./documentation//scripts/rename_images.sh
+```
 
-[Docker Compose Live Reload](./documentation/setup/docker_compose_live_reload.md)
+# setup
 
-[Configure SSH Multiple Users](./documentation/setup/configure_ssh_multiple_users.md)
+[docker compose live reload](./documentation/setup/docker_compose_live_reload.md)
+
+[configure ssh multiple users git](./documentation/setup/configure_ssh_multiple_users.md)
+
+[run and debug with container on intelij](./documentation/setup/run_and_debug_with_container_on_intelij)

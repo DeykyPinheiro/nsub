@@ -1,6 +1,5 @@
 
-#  configure ssh multiple users git - [reference commit](aindanão tem)
-<!-- (https://github.com/DeykyPinheiro/nsub/commit/2e9cfbe4fba85ab318fe3ca60eeb68a249c6c2b7) -->
+#  configure ssh multiple users git - [reference commit](https://github.com/DeykyPinheiro/nsub/commit/ca3c9310d3bc086081446712e70f9c36053b4fb8)
 
 
 fist, create diferent keys, work and personal
