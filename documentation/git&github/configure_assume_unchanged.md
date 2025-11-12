@@ -1,5 +1,5 @@
 
-#  configure assume unchanged - [reference commit](https://github.com/DeykyPinheiro/nsub/commit/ca3c9310d3bc086081446712e70f9c36053b4fb8)
+#  configure assume unchanged - [reference commit](https://github.com/DeykyPinheiro/nsub/commit/5b05751496c9134913226dbc98b0c781dbde2731)
 
 
 comand freeze file, assumed never change
